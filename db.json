@@ -4,10 +4,9 @@
       "licensePlate": "Wfw303",
       "regExpired": false
     },
-    
+ {
       "id": 2,
       "make": "Ford",
       "licensePlate": "GND205",
       "regExpired": true
-    }
-]
+ } ]
