@@ -1,4 +1,4 @@
-        {
+     [   {
       id: 1,
       make: 'Kia',
       licensePlate: 'Wfw303',
@@ -10,3 +10,4 @@
       licensePlate: 'GND205',
       regExpired: true
     }
+]
